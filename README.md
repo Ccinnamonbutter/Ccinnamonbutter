@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ccinnamonbutter but you can call me cin_io.
 - 👀 I’m interested in Nanotechnologies and use of programming languages in hand with Enginnering softwares.
-- 🌱 I’m currently learning Go and Python.
+- 🌱 I’m currently learning Html,Js,Css,Ts and Python.
 - 💞️ I’m looking to collaborate on any projects that can help sharpen my skills.
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
